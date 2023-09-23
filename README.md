@@ -1,9 +1,13 @@
-# Car_Rental_Database_Design
+# Car Rental Database Design
 ---
 
 ## Project Overview
 
 Designed and implemented a robust SQL schema for a car rental system, the project, titled "Analysis of Car Rental Database," offers a comprehensive platform for car owners to advertise their vehicles for rent and serves as a marketplace for individuals looking to rent a vehicle. The system efficiently handles over 50,000 records, effectively managing data with the automation of billing and rental updates through triggers and procedures. This automation has resulted in a 100% reduction in manual processing time.
+
+## ER Diagram
+
+![ER Diagram]([path_to_er_diagram_image.png](https://github.com/dhvani-k/Car_Rental_Database_Design/blob/main/img/ER_Diagram.png)
 
 ---
 
@@ -18,7 +22,7 @@ Designed and implemented a robust SQL schema for a car rental system, the projec
     - `script_for_data_generation.py`: Utilized for generating dummy data to populate the database.
 
 3. **Demo Video**: 
-    - A demonstration of the system can be viewed [here](link_to_demo_video).
+    - A demonstration of the system can be viewed [here](https://github.com/dhvani-k/Car_Rental_Database_Design/blob/main/Webapp_Demo.mov).
 
 ---
 
