@@ -7,8 +7,7 @@ Designed and implemented a robust SQL schema for a car rental system, the projec
 
 ## ER Diagram
 
-![ER Diagram]
-(https://github.com/dhvani-k/Car_Rental_Database_Design/blob/main/img/ER_Diagram.png)
+![ER Diagram]([https://github.com/dhvani-k/YouTrend_Insights_Analyzing_YouTube_Video_Landscape/blob/main/img/architecture_YouTube%20Trending%20Video%20Analysis.jpeg](https://github.com/dhvani-k/Car_Rental_Database_Design/blob/main/img/ER_Diagram.png)) 
 
 ---
 
